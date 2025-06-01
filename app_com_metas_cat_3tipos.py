@@ -18,12 +18,22 @@ ALIMENTOS_PESO = {
     "Peito de Peru": {"kcal": 105, "proteina": 21, "gordura": 1, "hidratos": 0},
     "Arroz Basmati Cozido": {"kcal": 119, "proteina": 2.5, "gordura": 0.3, "hidratos": 26},
     "Grão-de-bico Cozido": {"kcal": 164, "proteina": 8, "gordura": 2, "hidratos": 27}
+    "Cenoura crua": {"kcal": 41, "proteina": 0.9, "gordura": 0.2, "hidratos": 10},
+    "Alface": {"kcal": 15, "proteina": 1.4, "gordura": 0.2, "hidratos": 2.9},
+    "Tomate": {"kcal": 18, "proteina": 0.9, "gordura": 0.2, "hidratos": 3.9},
+    "Pepino": {"kcal": 16, "proteina": 0.7, "gordura": 0.1, "hidratos": 3.6},
+    "Beterraba cozida": {"kcal": 44, "proteina": 1.7, "gordura": 0.2, "hidratos": 10},
+    "Grão-de-bico cozido": {"kcal": 164, "proteina": 8.9, "gordura": 2.6, "hidratos": 27.4},
+    "Feijão cozido": {"kcal": 127, "proteina": 8.7, "gordura": 0.5, "hidratos": 22.8},
+    "Feijão verde cozido": {"kcal": 35, "proteina": 1.9, "gordura": 0.1, "hidratos": 7},
+    "Beringela grelhada": {"kcal": 35, "proteina": 1, "gordura": 0.2, "hidratos": 8.7}
 }
 
 # Alimentos por unidade
 ALIMENTOS_UNIDADE = {
     "Ovo Cozido (1 unidade = 50g)": {"kcal": 78, "proteina": 6.3, "gordura": 5.3, "hidratos": 0.6},
     "Banana Média (1 unidade = 120g)": {"kcal": 105, "proteina": 1.3, "gordura": 0.3, "hidratos": 27}
+    
 }
 
 # Refeições completas predefinidas
